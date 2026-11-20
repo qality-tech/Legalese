@@ -45,8 +45,9 @@ kind. Nothing we collect is sold, used for advertising, or used to train a model
 
 ## Where it runs, and for how long
 
-On a server we operate ourselves, in **[COUNTRY — fill in]**, reachable only from inside our own
-network. It keeps no archive of messages: the only thing stored on that machine is a small file
+On a machine we operate ourselves, in **[COUNTRY — fill in]**. The bot only ever connects *outward*
+(HTTPS to Discord, HTTPS to our wiki); it opens no port and accepts no incoming connections, and the
+wiki it files into is not on the open internet either. It keeps no archive of messages: the only thing stored on that machine is a small file
 mapping channel to wiki folder, which contains no message text. Wiki pages stay until we delete them.
 Deleting the original Discord message, or the page, removes the content from that place.
 
