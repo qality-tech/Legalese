@@ -1,14 +1,13 @@
 Copyright (c) 2026 Qality. All rights reserved.
 
-The legal documents in this repository — `privacy-policy.md` and
-`terms-of-service.md` — are published here so that the terms governing the
-Qality Discord application (`wiki-bot`) are publicly available to the people
-those terms apply to.
+The notice in this repository — `NOTICE.md` — is published here so that the people whose
+conversations the Qality Discord application (`wiki-bot`) reads can find out what it does,
+in words that do not require a lawyer to interpret.
 
-Making them publicly readable does not license them. They may not be copied,
-reproduced, redistributed, or reused as the terms of another product or service
-without the prior written permission of the copyright holder. No licence to any
-intellectual property of Qality is granted or implied by this repository, and
-nothing in it grants permission to use the Qality name or marks.
+Making it publicly readable does not license it. It may not be copied, reproduced,
+redistributed, or reused as the terms of another product or service without the prior
+written permission of the copyright holder. No licence to any intellectual property of
+Qality is granted or implied by this repository, and nothing in it grants permission to
+use the Qality name or marks.
 
-Questions about these documents: [PRIVACY EMAIL]
+Questions about this notice: ask in the qality.tech Discord server, or open an issue here.
