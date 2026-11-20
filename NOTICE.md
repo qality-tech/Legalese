@@ -10,6 +10,13 @@ we wanted to see what a chatbot could do with the conversations a small team alr
 server and configured, but it has not been switched on. This page describes what it will do when we
 turn it on, written before we did, so that nobody finds out afterwards.
 
+## Who it is for
+
+**Nobody but us.** This bot exists to serve one category in one Discord server — ours. It is not a
+product, it is not offered to anyone else, and we are not accepting installations anywhere else. If
+you have found this page because `wiki-bot` turned up in a server that is not qality.tech, tell us and
+we want to know, because that is not supposed to be possible.
+
 ## What the bot does
 
 A Discord application named `wiki-bot` (application ID `1573304492886204447`) watches **one category**
